@@ -1,0 +1,18 @@
+button{
+ 
+  text-align: center;
+  height:50px;
+  margin-top:10px;
+   max-width:50px;
+   border-radius: 30px;
+   background-color: rgb(218, 192, 162);
+   
+
+}
+.k{
+  padding:1px;
+}
+button:hover{
+  background-color: rgb(210, 162, 162);
+}
+

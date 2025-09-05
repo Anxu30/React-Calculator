@@ -1,0 +1,12 @@
+.cal{
+  margin:10px;
+  
+}
+input{
+background-color: rgb(249, 227, 227);
+border-radius: 10px;
+color:black;
+font-size:20px;
+height:50px;
+text-align: right;
+}
